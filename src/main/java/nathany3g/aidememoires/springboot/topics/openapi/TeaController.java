@@ -1,4 +1,4 @@
-package nathany3g.aidememoires.springboot.openapi;
+package nathany3g.aidememoires.springboot.topics.openapi;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;
