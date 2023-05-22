@@ -12,6 +12,6 @@ import io.sentry.Sentry;
 public class CaptureApplicationStarted implements ApplicationListener<ApplicationStartedEvent> {
     @Override
     public void onApplicationEvent(ApplicationStartedEvent event) {
-        Sentry.captureMessage("The applicaton has started", INFO);
+        Sentry.captureMessage("The application has started", INFO);
     }
 }
