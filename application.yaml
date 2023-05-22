@@ -6,6 +6,11 @@ server:
   servlet:
     context-path: /spring-boot-aide-memoire
 
+sentry:
+  dsn: http://example@sentry.localhost:12345/1
+  environment: development
+  debug: true
+
 springdoc:
   swagger-ui:
     path: /swagger-ui.html
