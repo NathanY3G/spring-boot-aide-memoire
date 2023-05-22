@@ -9,7 +9,7 @@ server:
 sentry:
   dsn: http://example@sentry.localhost:12345/1
   environment: development
-  debug: true
+  debug: false
 
 springdoc:
   swagger-ui:
