@@ -1,7 +1,8 @@
 # Aide-mémoire for Spring Boot
 
 ## Intent
-Now, what was the name of that magical Spring Boot annotation again?
+Now, what was the name of that magical [Spring Boot](https://spring.io/projects/spring-boot/)
+annotation again?
 
 One day you might find some answers here!
 
