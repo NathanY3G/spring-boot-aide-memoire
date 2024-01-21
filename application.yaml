@@ -16,7 +16,13 @@ springdoc:
     path: /swagger-ui.html
 
 management:
+  endpoint:
+    health:
+      show-details: always
   endpoints:
     web:
       exposure:
         include: "health,prometheus"
+  health:
+    defaults:
+      enabled: false
