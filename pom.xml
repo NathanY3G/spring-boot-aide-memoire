@@ -16,7 +16,7 @@
   <description>Aide-memoire for Spring Boot</description>
 
   <properties>
-    <java.version>21</java.version>
+    <java.version>22</java.version>
     <sentry.version>7.6.0</sentry.version>
     <springdoc-openapi.version>2.4.0</springdoc-openapi.version>
 
