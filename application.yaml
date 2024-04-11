@@ -4,7 +4,7 @@ spring:
 
 server:
   servlet:
-    context-path: /spring-boot-aide-memoire
+    context-path: /aide-memoire
 
 sentry:
   dsn: http://example@sentry.localhost:12345/1
