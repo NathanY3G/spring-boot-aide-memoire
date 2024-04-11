@@ -10,9 +10,9 @@ One day you might find some answers here!
 ## Endpoints
 
 ### API Documentation
-* http://localhost:8080/spring-boot-aide-memoire/swagger-ui.html
+* http://localhost:8080/aide-memoire/swagger-ui.html
 
 
 ### Monitoring
-* http://localhost:8080/spring-boot-aide-memoire/actuator/health
-* http://localhost:8080/spring-boot-aide-memoire/actuator/prometheus
+* http://localhost:8080/aide-memoire/actuator/health
+* http://localhost:8080/aide-memoire/actuator/prometheus
